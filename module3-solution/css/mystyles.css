@@ -1,0 +1,21 @@
+body {
+    font-size: 12px;
+}
+
+.container-fluid h1, section h2, .nav a {
+    text-align: center;
+}
+
+.row section {
+    background-color: grey;
+    height: 500px;
+}
+#bs-example-navbar-collapse-1{
+    padding:0;
+}
+ul#table {
+    margin:0;
+}
+ul#table > li> a{
+    border: 1px black solid;
+}
